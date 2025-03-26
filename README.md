@@ -1,3 +1,3 @@
 # academy_java
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
+![Alt Text](https://media1.tenor.com/m/wTKt4BjN7TsAAAAd/zant-just-got-rick-rolled-zant.gif)
