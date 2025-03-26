@@ -1,0 +1,12 @@
+1-test e livello liquidi freni
+2-check pastiglie freni anteriori e posteriori
+3-controllo dischi freno anteriori e posteriori
+4-controllo tergicristalli
+5-rabbocco liquido lavavetri
+6-controllo olio motore
+7-controllo visivo geometria del veicolo
+8-controllo conformità e usura pneumatici
+9-misurazione pressione pneumatici e ruota di scorta
+10-controllo climatizzatore auto
+11-verifica stato ammortizzatori
+12-controllo sensore pressione pneumatici
