@@ -1,6 +1,6 @@
 # academy_java
 
-In questo progetto ci divertiamo a vedere quanti carateri può avere una classe Java.
+In questo progetto ci divertiamo a vedere quanti caratteri può un nome di una classe Java avere.
 
 P.S.: La risposta è **TROPPI**
 
