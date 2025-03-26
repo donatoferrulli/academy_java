@@ -1,1 +1,19 @@
+ciao ciao ciao
+    int i,j;
+    int numero_minore;
+
+        numero_minore = i;
+
+        for (j = i + 1; j < lunghezza; j++)
+
+            if (arr[j] < arr[numero_minore]) 
+                numero_minore = j;
+            }
+
+		}
+
+        int tmp = arr[i];
+        arr[i] = arr[numero_minore];
+        arr[numero_minore] = tmp;
+
 provando a creare un conflitto
