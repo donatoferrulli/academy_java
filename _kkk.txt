@@ -15,3 +15,5 @@ ciao ciao ciao
         int tmp = arr[i];
         arr[i] = arr[numero_minore];
         arr[numero_minore] = tmp;
+
+provando a creare un conflitto
