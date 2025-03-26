@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ciaoooooooooooooooooo
-=======
 txt
->>>>>>> 61198ff18e3be93658adfbaa93b8028b04206b84
